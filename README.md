@@ -8,7 +8,7 @@
 
 A powerful, privacy-focused AI agent framework built with Next.js and Ollama. This application autonomously decomposes complex tasks into manageable steps, executes them with transparent reasoning, and delivers comprehensive results—all while running locally on your machine.
 
-![Reasoning AI Application Interface](https://via.placeholder.com/800x400?text=Reasoning+AI+Screenshot)
+![Reasoning AI Application Interface](ui01.png)
 
 ## ✨ Features
 
